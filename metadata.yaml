@@ -1,0 +1,31 @@
+_repo: The-Big-Mogul_68048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_C._Lincoln
+description: ''
+gutenberg_issued: '2022-05-11'
+identifiers:
+  gutenberg: '68048'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3711273
+pgterms:marc905: 20220110124357lincoln
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :D. Appleton and Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Big Mogul
+url: http://www.gutenberg.org/ebooks/68048
